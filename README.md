@@ -5,6 +5,9 @@
 <p align="center"> <img src="https://github.com/MonicaHillman/aluraplay-requisicoes/blob/main/img/logo.png" alt="Logo da Alura"> </p>
 <p align="center">Página inicial e formulário de cadastro de vídeos da AluraPlay, uma plataforma de compartilhamento de vídeos.</p>
 
+[Acessar Projeto](https://alura-play-nu.vercel.app/)
+
+
 ## Tecnologias utilizadas durante o curso
 * Javascript
 * NodeJS
